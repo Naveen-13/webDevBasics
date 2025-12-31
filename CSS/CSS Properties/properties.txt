@@ -1,0 +1,5 @@
+text-align : justify;
+
+CSS Modal Box (Padding, Border, Margin):
+
+Padding : An element's padding area is the space between its content and its border.
